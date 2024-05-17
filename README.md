@@ -9,7 +9,6 @@ Welcome to the **Daily Email Reporter** repository! This project contains a Pyth
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 📝 Introduction
